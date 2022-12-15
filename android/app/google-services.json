@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325584005893",
+    "project_id": "neutrino-e1e27",
+    "storage_bucket": "neutrino-e1e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325584005893:android:18a43ec704de7ff59ca56c",
+        "android_client_info": {
+          "package_name": "com.example.tesla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325584005893-k2leg64jba20k5rdghg5gav5ds8d0qjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5_gjHguWle8jyzINJg13-ULhwRHkVWOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325584005893-k2leg64jba20k5rdghg5gav5ds8d0qjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
